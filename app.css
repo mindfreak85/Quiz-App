@@ -60,7 +60,8 @@ div[class="container"] > *{
     justify-content: center;
     align-items: center;
     max-width: 80rem;
-    margin:auto;   
+    margin: 0 auto;  
+    padding : 2rem;
 }
 
 .container > *{
